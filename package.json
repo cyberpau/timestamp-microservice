@@ -1,0 +1,28 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A FreeCodeCamp microservice project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberpau/timestamp-microservice.git"
+  },
+  "keywords": [
+    "microservice",
+    "freecodecamp",
+    "timestamp",
+    "api"
+  ],
+  "author": "John Paulo Mataac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberpau/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/cyberpau/timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
